@@ -11,7 +11,7 @@
 </div>
 ```
 
-Aveces es necesario anidar componentes. He aquí algunas guías para hacer esto.
+A veces es necesario anidar componentes. He aquí algunas guías para hacer esto.
 
 ## Variantes
 Un componente puede aparecer anidado dentro de otro componente. Se debe evitar modificar el componente que lo contiene para poder llegar al componente anidado.
